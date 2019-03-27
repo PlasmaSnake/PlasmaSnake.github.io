@@ -4,19 +4,15 @@
 
 2. about page
 
-3. contact page
+3. works page (games version of resume?)
 
-4. works page
+4. after all is done, try to get it into one flowing page.
 
-5. after all is done, try to get it into one flowing page.
+5. (Optional) Analytics page for Job searching.
 
-6. (Optional) Analytics page for Job searching.
+6. (Optional) Keep nav bar on top at all times.
 
-7. (Optional) Keep nav bar on top at all times.
-
-8. When hovering over a skill, have it highlight a project
-
-Work on text-based adventure for self
+7. When hovering over a skill, have it highlight a project
 
 ## Technologies used
 
@@ -32,6 +28,6 @@ VS Code Extensions used:
 
 ## Free Services / Third Party software used
 
-### Bootstrap
+### Bootstrap 4
 
 <https://getbootstrap.com/>
