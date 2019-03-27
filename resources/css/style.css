@@ -1,0 +1,25 @@
+.main {
+	padding-top: 4%;
+	font-size: 1em;
+	font-family: 'Roboto', sans-serif;
+}
+img {
+	max-width: 45%;
+	height: auto;
+	width: auto\9;
+}
+.error-msg {
+	margin: 5px 0px 0px 0px; 
+	text-align: center;
+	color: red;
+}
+.row {
+	margin-bottom: 5px;
+}
+h2 {
+	font-family: 'Anton', sans-serif;
+}
+footer {
+	padding: 0px 10px;
+	text-align: center;
+}
