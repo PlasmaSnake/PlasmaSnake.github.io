@@ -1,7 +1,3 @@
-# MikeSite
-
-A personal website made for myself.
-
 ## TODO
 
 1. home page - a card for each project/educational facility/etc. Have them clickable to show more information.
@@ -24,10 +20,7 @@ Work on text-based adventure for self
 
 ## Technologies used
 
-* Java
-* Maven
-* HTML/CSS
-* JSP
+* HTML5/CSS3/JS
 * Visual Studio Code
 
 VS Code Extensions used:
