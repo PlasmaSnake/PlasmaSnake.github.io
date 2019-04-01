@@ -18,7 +18,7 @@ section{
 .profile{
 	border-radius: 50%;
 	box-shadow: 0 0 1px 5px #230903;
-	max-width: 40%;
+	max-width: 35%;
 	height: auto;
 	width: auto\9;
 }
@@ -49,7 +49,7 @@ section{
 
 .card-footer{
 	border:none;
-	background-color:rgb(201,121,64);
+	background-color:transparent;
 }
 h1, h2 {
 	font-family: 'Anton', sans-serif;
