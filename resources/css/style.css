@@ -2,27 +2,34 @@ body{
 	font-size: 1em;
 	font-family: 'Roboto', sans-serif;
 	color:#230903;
+	margin:0px;
 }
-
+section{
+	height:100vh;
+}
 .main {
 	padding-top: 1%;
-	background:url("../images/zenbg.jpg") no-repeat center center fixed;
-	background-size:cover;
 	top:0;
 	left:0;
 	height: auto;
 	width:100%;
+	overflow-x:hidden;
 }
 .profile{
 	border-radius: 50%;
 	box-shadow: 0 0 1px 5px #230903;
-	max-width: 45%;
+	max-width: 40%;
 	height: auto;
 	width: auto\9;
 }
-
-.container {
-	
+.row-offcolor{
+	padding: 65px 10px;
+}
+.row-color {
+	background-color: rgb(201,121,64);
+	-webkit-clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
+	clip-path: polygon(0 0%, 100% 4%, 100% 96%, 0% 100%);
+	padding: 65px 10px;
 }
 .outline-text{
 	text-shadow:
@@ -34,25 +41,20 @@ body{
 	padding-top:14px;
 
 }
-.image-title{
-	background-image:url("../images/inkstroke.png");
-	background-size:cover;
-	height:auto;
-	width:220px;
-	left:0;
-	top:0;
-	padding-bottom:1%;
-	margin-bottom:1%;
-}
+
 .card {
-	background-color:rgba(201,121,64,0.9);
+	background-color:transparent;
+	border:none;
 }
-.row {
-	margin-bottom: 4%;
+
+.card-footer{
+	border:none;
+	background-color:rgb(201,121,64);
 }
 h1, h2 {
 	font-family: 'Anton', sans-serif;
 }
+
 .content-area{
 	padding-top: 10px;
 	text-align:center;

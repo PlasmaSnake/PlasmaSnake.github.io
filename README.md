@@ -2,29 +2,20 @@
 
 1. home page - a card for each project/educational facility/etc. Have them clickable to show more information.
 
-2. about page
+2. works page
 
-3. works page (games version of resume?)
+3. Do 2 column page (JS static left column with Profile/Skills/contact || Right side has everything else)
 
-4. after all is done, try to get it into one flowing page.
+4. Optional: Job Analytics/Blog
 
-5. (Optional) Analytics page for Job searching.
+5. games version of resume?
 
-6. (Optional) Keep nav bar on top at all times.
-
-7. When hovering over a skill, have it highlight a project
+6. Create a web-based adventure for resume
 
 ## Technologies used
 
 * HTML5/CSS3/JS
-* Visual Studio Code
-
-VS Code Extensions used:
-
-* Java <https://code.visualstudio.com/docs/languages/java>
-* Spring Boot
-* Maven for Java
-* Java Server Pages
+* Sublime Text 3
 
 ## Free Services / Third Party software used
 
