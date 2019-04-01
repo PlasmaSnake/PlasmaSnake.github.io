@@ -4,6 +4,9 @@ body{
 	color:#230903;
 	margin:0px;
 }
+h1, h2 {
+	font-family: 'Anton', sans-serif;
+}
 section{
 	height:100vh;
 }
@@ -18,7 +21,7 @@ section{
 .profile{
 	border-radius: 50%;
 	box-shadow: 0 0 1px 5px #230903;
-	max-width: 35%;
+	max-width: 25%;
 	height: auto;
 	width: auto\9;
 }
@@ -51,10 +54,6 @@ section{
 	border:none;
 	background-color:transparent;
 }
-h1, h2 {
-	font-family: 'Anton', sans-serif;
-}
-
 .content-area{
 	padding-top: 10px;
 	text-align:center;
@@ -71,3 +70,55 @@ footer {
 	background-color:#A56C43;
 	text-align: center;
 }
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+/* X-Small devices (landscape phones, 544px and up) */
+@media (min-width: 100px) {  
+    .main {font-size: 14px;}
+    h1 {font-size:1.5em;}
+    h2 {font-size:1.3em;}
+    h3 {font-size:1.2em;}
+    h4 {font-size:1.1em;}
+    h5 {font-size:1em;}
+}
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) {  
+    .main {font-size: 16px;}
+    h1 {font-size:1.8em;}
+    h2 {font-size:1.6em;}
+    h3 {font-size:1.5em;}
+    h4 {font-size:1.4em;}
+    h5 {font-size:1.3em;}
+
+}
+
+  /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {  
+    .main {font-size: 16px;}
+    h1 {font-size:2.2em;}
+    h2 {font-size:1.8em;}
+    h3 {font-size:1.6em;}
+    h4 {font-size:1.5em;}
+    h5 {font-size:1.4em;}
+
+}
+
+  /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    .main {font-size: 16px;}
+    h1 {font-size:2em;}
+    h2 {font-size:1.8em;}
+    h3 {font-size:1.6em;}
+    h4 {font-size:1.5em;}
+    h5 {font-size:1.4em;}
+
+}
+
+  /* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    .main {font-size: 16px;}
+
+}	
